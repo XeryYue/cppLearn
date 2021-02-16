@@ -1,0 +1,2 @@
+D:\cpplearn\AdminSystem\Debug\AdminSystem.exe
+D:\cpplearn\AdminSystem\Debug\AdminSystem.pdb
